@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  baseline_data_simulation: baseline_data_simulation.html
+  baseline_data_with_outbreaks_simulation: baseline_data_with_outbreaks_simulation.html
+  short_term_trend: short_term_trend.html
+last_built: 2023-12-22T18:58Z
+urls:
+  reference: https://www.csids.no/csalert/reference
+  article: https://www.csids.no/csalert/articles
+
